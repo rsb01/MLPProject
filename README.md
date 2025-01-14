@@ -9,18 +9,18 @@ This Repositry consists of my Machine Learning Practice - Project which I did on
 
 Requirements to run the notebook : 
 - pandas 
--numpy
--seaborn
--matplotlib
--scipy
--RandomForestClassifier
--LogisticRegression
--GaussianNB
--StandardScaler
--SMOTEENN
--PCA
--lgb
--sp_randint
+- numpy
+- seaborn
+- matplotlib
+- scipy
+- RandomForestClassifier
+- LogisticRegression
+- GaussianNB
+- StandardScaler
+- SMOTEENN
+- PCA
+- lgb
+- sp_randint
 
 
 Use all the latest versions of this libraries to get the highest outcome.
